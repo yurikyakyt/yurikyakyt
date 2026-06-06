@@ -45,10 +45,3 @@ Custom SPA architecture and Redux-like state management implementation built fro
 ## Focus Areas
 
 Frontend Architecture · TypeScript · React Ecosystem · AI-powered Products
-
-## GitHub Stats
-
-## GitHub Stats
-
-![GitHub Stats](https://vercel.app)
-
