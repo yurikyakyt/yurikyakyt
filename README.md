@@ -48,6 +48,21 @@ Frontend Architecture · TypeScript · React Ecosystem · AI-powered Products
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurikyakyt\&show_icons=true\&hide_border=true\&rank_icon=github)
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yurikyakyt\&layout=compact\&hide_border=true)
+<p>
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=yurikyakyt&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    alt="Yuriy's GitHub stats"
+  />
+</p>
+
+<p>
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikyakyt&layout=compact&hide_border=true&theme=transparent"
+    alt="Top languages"
+  />
+</p>
+
